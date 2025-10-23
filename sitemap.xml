@@ -1,45 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/404.html</loc>
+    <loc>https://carpentries-incubator.github.io/byte-sized-rse-overview/404.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/CODE_OF_CONDUCT.html</loc>
+    <loc>https://carpentries-incubator.github.io/byte-sized-rse-overview/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/LICENSE.html</loc>
+    <loc>https://carpentries-incubator.github.io/byte-sized-rse-overview/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/index.html</loc>
+    <loc>https://carpentries-incubator.github.io/byte-sized-rse-overview/aio.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/404.html</loc>
+    <loc>https://carpentries-incubator.github.io/byte-sized-rse-overview/images.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://carpentries-incubator.github.io/byte-sized-rse-overview/index.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/LICENSE.html</loc>
+    <loc>https://carpentries-incubator.github.io/byte-sized-rse-overview/instructor/404.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/index.html</loc>
+    <loc>https://carpentries-incubator.github.io/byte-sized-rse-overview/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/introduction.html</loc>
+    <loc>https://carpentries-incubator.github.io/byte-sized-rse-overview/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/profiles.html</loc>
+    <loc>https://carpentries-incubator.github.io/byte-sized-rse-overview/instructor/aio.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/instructor/reference.html</loc>
+    <loc>https://carpentries-incubator.github.io/byte-sized-rse-overview/instructor/images.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/introduction.html</loc>
+    <loc>https://carpentries-incubator.github.io/byte-sized-rse-overview/instructor/index.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/profiles.html</loc>
+    <loc>https://carpentries-incubator.github.io/byte-sized-rse-overview/instructor/instructor-notes.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-md/reference.html</loc>
+    <loc>https://carpentries-incubator.github.io/byte-sized-rse-overview/instructor/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/byte-sized-rse-overview/instructor/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/byte-sized-rse-overview/instructor/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/byte-sized-rse-overview/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/byte-sized-rse-overview/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/byte-sized-rse-overview/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/byte-sized-rse-overview/key-points.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/byte-sized-rse-overview/profiles.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/byte-sized-rse-overview/reference.html</loc>
   </url>
 </urlset>
