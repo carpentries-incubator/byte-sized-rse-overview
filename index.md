@@ -17,7 +17,7 @@ Byte-sized RSE is a series of standalone mini lessons providing key research sof
 
 ::: prereq
 
-Each of the lessons within the Byte-sized RSE series contains a separate set of prerequisites - please refer to that information to prepare for the lesson.
+Each of the lessons within the Byte-sized RSE series contains a separate set of prerequisites - please refer to that information to learn what prerequsite knowledge is needed in order to follow the lesson.
 
 :::
 
