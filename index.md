@@ -6,6 +6,11 @@ site: sandpaper::sandpaper_site
 
 Byte-sized RSE is a series of standalone mini lessons providing key research software skills in around 1.5 hour. 
 
+### Target audience
+
+* Research software engineers (RSEs) working in academic or research-intensive settings — i.e., people whose role includes developing, maintaining, or supporting research software. 
+* Researchers and postgraduate students involved in computational or data-intensive research, who already have some basic software/coding experience and want to level up their software engineering practices.
+
 ### Byte-Sized RSE Lessons
 
 At the moment, the following mini lessons constitute the Byte-sized RSE series:
