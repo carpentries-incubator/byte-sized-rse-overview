@@ -2,7 +2,7 @@
 site: sandpaper::sandpaper_site
 ---
 
-## Byte-Sized RSE Series
+## Byte-Sized RSE Series Overview
 
 Byte-sized RSE is a series of standalone mini lessons providing key research software skills in around 1.5 hour. 
 
