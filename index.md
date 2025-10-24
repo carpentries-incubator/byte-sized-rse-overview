@@ -2,11 +2,11 @@
 site: sandpaper::sandpaper_site
 ---
 
-# Byte-Sized RSE Series
+## Byte-Sized RSE Series
 
 Byte-sized RSE is a series of standalone mini lessons providing key research software skills in around 1.5 hour. 
 
-## Byte-Sized RSE Lessons
+### Byte-Sized RSE Lessons
 
 * [Code Development & Debugging with IDEs](https://github.com/carpentries-incubator/byte-sized-rse-vscode)
 * [Code Style, Quality & Linting](https://github.com/carpentries-incubator/byte-sized-rse-code-quality)
