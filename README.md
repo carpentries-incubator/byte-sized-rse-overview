@@ -34,4 +34,8 @@ Each episode is standalone, although it may require some prerequisite knowledge 
 Instructional material from this lesson is made available under the Creative Commons Attribution (CC BY 4.0) licence. 
 Except where otherwise noted, example programs and software included as part of this lesson are made available under the MIT licence. For more information, see [LICENSE.md](./LICENSE.md).
 
+## Contact
+
+Please contact [Aleksandra Nenadic](mailto:a.nenadic@software.ac.uk) with any queries about the lessons.
+
 [workbench]: https://carpentries.github.io/sandpaper-docs/
