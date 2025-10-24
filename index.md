@@ -24,6 +24,13 @@ At the moment, the following mini lessons constitute the Byte-sized RSE series:
 
 More lessons will be added in the future. If you are interested in contributing - please [contact us](https://github.com/carpentries-incubator/byte-sized-rse-overview/blob/main/README.md#contact).
 
+### Learning Objectives/Intended Learning Outcomes
+
+* Gain concrete skills and awareness in research-software engineering practices (e.g., code quality, version control, CI) that improve productivity, maintainability and reproducibility.
+* Improve collaboration and code sharing between researchers and software engineers by adopting shared tooling/practices.
+* Accelerate the uptake of sound software practices within research groups, reducing technical debt, improving reliability of research software.
+* Provide accessible “bite-sized” training modules that fit into busy researcher/technical staff schedules.
+
 ::: prereq
 
 Each of the lessons within the Byte-sized RSE series contains a separate set of prerequisites - please refer to that information to learn what prerequsite knowledge is needed in order to effectively follow the lesson.
