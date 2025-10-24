@@ -5,6 +5,6 @@
 "index.md" "beba679332a54296b10ce2dd724e1272" "site/built/index.md" "2025-10-24"
 "links.md" "8184cf4149eafbf03ce8da8ff0778c14" "site/built/links.md" "2025-10-23"
 "instructors/instructor-notes.md" "cae72b6712578d74a49fea7513099f8c" "site/built/instructor-notes.md" "2025-10-23"
-"learners/reference.md" "fbd47dab51ee3d0472b830ca9256981b" "site/built/reference.md" "2025-10-24"
+"learners/reference.md" "6f090e4cde0570c94917c39e8059e6a6" "site/built/reference.md" "2025-10-24"
 "learners/setup.md" "9ad07e5424a49126a7bed46a62f370d0" "site/built/setup.md" "2025-10-24"
 "profiles/learner-profiles.md" "515df473d423c0494ee63c0ed03b63ca" "site/built/learner-profiles.md" "2025-10-24"
