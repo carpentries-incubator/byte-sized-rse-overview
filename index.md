@@ -17,7 +17,7 @@ At the moment, the following mini lessons constitute the Byte-sized RSE series:
 * [Unit Testing Code](https://github.com/carpentries-incubator/byte-sized-rse-testing)
 * [Continuous Integration](https://github.com/carpentries-incubator/byte-sized-rse-ci)
 
-More lessons will be added in the future. If you are interested in contributing - please [contact us]([mailto:](https://github.com/carpentries-incubator/byte-sized-rse-overview/blob/main/README.md#contact).
+More lessons will be added in the future. If you are interested in contributing - please [contact us](https://github.com/carpentries-incubator/byte-sized-rse-overview/blob/main/README.md#contact).
 
 ::: prereq
 
