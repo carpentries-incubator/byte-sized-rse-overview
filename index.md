@@ -2,8 +2,16 @@
 site: sandpaper::sandpaper_site
 ---
 
-This is a new lesson built with [The Carpentries Workbench][workbench]. 
+# Byte-Sized RSE Series
 
+Byte-sized RSE is a series of standalone mini lessons providing key research software skills in around 1.5 hour. 
 
-[workbench]: https://carpentries.github.io/sandpaper-docs
+## Byte-Sized RSE Lessons
+
+* [Code Development & Debugging with IDEs](https://github.com/carpentries-incubator/byte-sized-rse-vscode)
+* [Code Style, Quality & Linting](https://github.com/carpentries-incubator/byte-sized-rse-code-quality)
+* [Intermediate Git](https://github.com/carpentries-incubator/byte-sized-rse-git-intermediate)
+* [Code Review](https://github.com/carpentries-incubator/byte-sized-rse-code-review)
+* [Unit Testing Code](https://github.com/carpentries-incubator/byte-sized-rse-testing)
+* [Continuous Integration](https://github.com/carpentries-incubator/byte-sized-rse-ci)
 
