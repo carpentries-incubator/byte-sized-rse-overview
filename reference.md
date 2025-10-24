@@ -19,21 +19,11 @@ Example tools: Git, typically used with platforms like GitHub or GitLab.
 
 [Linting]: process of automatically checking source code for stylistic errors, potential bugs, or deviations from coding standards. Example tools: flake8, pylint, black (Python).
 
-8. Unit Testing
+[Unit testing]: writing small, automated tests that verify individual parts (“units”) of code behave as expected. Improves confidence in code correctness and supports refactoring.
 
-Writing small, automated tests that verify individual parts (“units”) of code behave as expected.
-Improves confidence in code correctness and supports refactoring.
+[Continuous Integration (CI)]: a workflow that automatically tests and validates code whenever changes are made (e.g., when someone pushes to GitHub). Reduces integration issues and ensures consistent code quality.
 
-9. Continuous Integration (CI)
-
-A workflow that automatically tests and validates code whenever changes are made (e.g., when someone pushes to GitHub).
-Reduces integration issues and ensures consistent code quality.
-
-10. Issue Tracking
-
-A system for recording, prioritizing, and managing bugs, tasks, and feature requests.
-Examples: GitHub Issues, Jira.
-Encourages transparency and project management within teams.
+[issue tracking]: a system for recording, prioritising, and managing bugs, tasks, and feature requests. Example tools: GitHub Issues, Jira. Encourages transparency and project management within teams.
 
 11. Documentation
 
