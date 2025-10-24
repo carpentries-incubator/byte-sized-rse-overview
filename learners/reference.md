@@ -4,33 +4,20 @@ title: 'Reference'
 
 ## Glossary
 
-[Research Software Engineer (RSE)]: RSEs combine expertise in programming with an understanding of research methods to make research software reliable, reusable, and reproducible.
+[Research Software Engineer (RSE)]{#rse}: RSEs combine expertise in programming with an understanding of research methods to make research software reliable, reusable, and reproducible.
 
 [Reproducibility]: ability for someone (including the original author) to obtain the same results using the same data, code, and methods.
 
 [Version control]: A system that tracks changes to code and documents over time, enabling collaboration and rollback to previous states.
-Example tool: Git, typically used with platforms like GitHub or GitLab.
+Example tools: Git, typically used with platforms like GitHub or GitLab.
 
-4. Repository (Repo)
+[Repository]: structured storage space for code, documentation, and configuration files, managed by a version control system. It serves as the “home” of a project where collaboration and review happen.
 
-A structured storage space for code, documentation, and configuration files, managed by a version control system.
-It serves as the “home” of a project where collaboration and review happen.
+[Integrated Development Environment (IDE)]: software that provides a unified environment for writing, debugging, and testing code. Example tools: Visual Studio Code, PyCharm, RStudio.
 
-5. Integrated Development Environment (IDE)
+[Code quality]: degree to which code is readable, maintainable, and free of defects. Enhanced through consistent style, refactoring, automated testing, and static analysis (e.g., linters).
 
-Software that provides a unified environment for writing, debugging, and testing code.
-Examples: Visual Studio Code, PyCharm, RStudio.
-Byte-sized RSE modules introduce efficient use of IDEs for productivity and debugging.
-
-6. Code Quality
-
-The degree to which code is readable, maintainable, and free of defects.
-Enhanced through consistent style, refactoring, automated testing, and static analysis (e.g., linters).
-
-7. Linting
-
-The process of automatically checking source code for stylistic errors, potential bugs, or deviations from coding standards.
-Tools: flake8, pylint, black (Python).
+[Linting]: process of automatically checking source code for stylistic errors, potential bugs, or deviations from coding standards. Example tools: flake8, pylint, black (Python).
 
 8. Unit Testing
 
