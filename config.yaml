@@ -15,7 +15,7 @@
 carpentry: 'incubator'
 
 # Alt-text description of the lesson.
-carpentry_description: 'Lesson Description'
+carpentry_description: 'Byte-sized RSE is a series of standalone mini training materials providing key research software skills in around 1.5 hour'
 
 # Overall title for pages.
 title: 'Byte-Sized RSE Series'
@@ -66,7 +66,6 @@ contact: 'a.nenadic@software.ac.uk'
 
 # Order of episodes in your lesson
 episodes: 
-- introduction.md
 
 # Information for Learners
 learners: 
