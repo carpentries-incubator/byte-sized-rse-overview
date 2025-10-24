@@ -15,3 +15,9 @@ Byte-sized RSE is a series of standalone mini lessons providing key research sof
 * [Unit Testing Code](https://github.com/carpentries-incubator/byte-sized-rse-testing)
 * [Continuous Integration](https://github.com/carpentries-incubator/byte-sized-rse-ci)
 
+::: prereq
+
+Each of the lessons within the Byte-sized RSE series contains a separate set of prerequisites - please refer to that information to prepare for the lesson.
+
+:::
+
