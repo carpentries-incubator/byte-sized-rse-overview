@@ -30,21 +30,18 @@ title: 'Reference'
 [Continuous Integration (CI)]
 : a workflow that automatically tests and validates code whenever changes are made (e.g., when someone pushes to GitHub). Reduces integration issues and ensures consistent code quality.
 
-[issue tracking]
+[Issue tracking]
 : a system for recording, prioritising, and managing bugs, tasks, and feature requests. Example tools: GitHub Issues, Jira. Encourages transparency and project management within teams.
 
-11. Documentation
-
-Written guidance that helps others understand, install, and use your code or software.
-Includes README files, inline comments, tutorials, and API references.
+[Documentation]
+: Written guidance that helps others understand, install, and use your code or software. 
+Includes README files, inline comments, tutorials, and API references. 
 Good documentation is essential for reuse and collaboration.
 
-12. Code Review
-
-The practice of having others inspect your code before it’s merged into the main branch.
+[Code review]
+: The practice of having others inspect your code before it’s merged into the main branch.
 Improves code quality, knowledge sharing, and consistency within a team.
 
-13. Open Science / Open Research
-
-A movement to make research outputs (data, software, papers) accessible, transparent, and reusable by others.
+[Open Science / Open Research]
+: A movement to make research outputs (data, software, papers) accessible, transparent, and reusable by others.
 Software engineering practices support this goal by improving reproducibility and sustainability.
