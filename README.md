@@ -1,4 +1,4 @@
-# Byte-Sized RSE
+# Byte-Sized RSE Series
 
 [Byte-sized RSE](https://www.universe-hpc.ac.uk/events/byte-sized-rse/) is a series of standalone mini training materials providing key research software skills in around 1-1.5 hour originally developed and run by [Jeremy Cohen from the Imperial College London](https://profiles.imperial.ac.uk/jeremy.cohen) and [Steve Crouch from the Software Sustainability Institute](https://www.software.ac.uk/our-people/steve-crouch) since October 2022 as part of the [UNIVERSE-HPC](https://www.universe-hpc.ac.uk/) project. 
 
