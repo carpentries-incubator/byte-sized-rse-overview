@@ -18,17 +18,17 @@ carpentry: 'incubator'
 carpentry_description: 'Lesson Description'
 
 # Overall title for pages.
-title: 'Byte-Sized RSE'
+title: 'Byte-Sized RSE Series'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: 2025-10-23
 
 # Comma-separated list of keywords for the lesson
-keywords: 'software, data, lesson, The Carpentries' # FIXME
+keywords: 'software, software skills' # FIXME
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
-life_cycle: 'pre-alpha' # FIXME
+life_cycle: 'alpha' # FIXME
 
 # License of the lesson
 license: 'CC-BY 4.0'
@@ -40,7 +40,7 @@ source: 'https://github.com/carpentries-incubator/byte-sized-rse-overview'
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org' # FIXME
+contact: 'a.nenadic@software.ac.uk'
 
 # Navigation ------------------------------------------------
 #
