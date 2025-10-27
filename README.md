@@ -8,11 +8,11 @@ Check [Byte-sized RSE series in the UNIVERSE-HPC project](https://www.universe-h
 
 This repository contains a subset of the [original Byte-sized RSE episodes](https://www.universe-hpc.ac.uk/events/byte-sized-rse/) (originally documented as a set of slides and accompanying notes/script for the practical part) now transcribed in the [The Carpentries Workbench][workbench] format suitable for reuse and delivery by instructors familiar with the episode content. 
 
-## Episode Format
+## Lesson Format
 
-Each episode is standalone, although it may require some prerequisite knowledge which is clearly described at the beginning. Episodes start with a setup for that episode, introduction and motivation, which is then followed by a practical hands-on part.
+Each lesson is standalone, although it may require some prerequisite knowledge which is clearly described at the start of each lesson. Lessons start with a setup, introduction and motivation, which is then followed by a practical hands-on activity part.
 
-## Episodes
+## Lessons
 
 * [Code Development & Debugging with IDEs](https://github.com/carpentries-incubator/byte-sized-rse-vscode)
 * [Code Style, Quality & Linting](https://github.com/carpentries-incubator/byte-sized-rse-code-quality)
