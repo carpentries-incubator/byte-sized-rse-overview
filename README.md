@@ -10,7 +10,7 @@ This repository contains a subset of the [original Byte-sized RSE episodes](http
 
 ## Lesson Format
 
-Each lesson is standalone, although it may require some prerequisite knowledge which is clearly described at the start of each lesson. Lessons start with a setup, introduction and motivation, which is then followed by a practical hands-on activity part.
+Each lesson takes ~1.5 hour long to deliver and is standalone relative to other lessons on the series. Lessons may require some prerequisite knowledge which is clearly described at the start of each lesson. Lessons start with a setup, introduction and motivation, which is then followed by a practical hands-on activity part.
 
 ## Lessons
 
