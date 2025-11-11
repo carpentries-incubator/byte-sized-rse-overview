@@ -21,7 +21,7 @@ Each lesson takes ~1.5 hour long to deliver and is standalone relative to other 
 * [Unit Testing Code](https://github.com/carpentries-incubator/byte-sized-rse-testing)
 * [Continuous Integration](https://github.com/carpentries-incubator/byte-sized-rse-ci)
 
-# Slides
+## Slides
 
 [Slides](https://docs.google.com/presentation/d/1qNyDV3VDwv6Z3RHwfn5hL0pFxzK_DsWN3bPMjwV7Uoc/edit?usp=sharing) available under CC BY 4.0 licence.
 
