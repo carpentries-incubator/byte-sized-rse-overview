@@ -25,6 +25,11 @@ Each lesson takes ~1.5 hour long to deliver and is standalone relative to other 
 
 [Slides](https://docs.google.com/presentation/d/1qNyDV3VDwv6Z3RHwfn5hL0pFxzK_DsWN3bPMjwV7Uoc/edit?usp=sharing) available under CC BY 4.0 licence.
 
+### Recordings
+
+[Recording of the "Code Style, Quality & Linting" session delivered at SSI's RSC7, 12 November 2025](https://us02web.zoom.us/rec/play/8bG3TZWNXyt0ZnNhxc1BTCWsJlaDDYWlS1Lmkv90r2xEnzA7hUiGLHstBxnpA6VfqcATQNXqETPwtsDc.DRW5ftqyZAxE7kyV?eagerLoadZvaPages=sidemenu.billing.plan_management&isReferralProgramEnabled=false&isReferralProgramAvailable=false&accessLevel=meeting&canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fus02web.zoom.us%2Frec%2Fshare%2FjmxNQgVk8nI4l0oiT3hFpVhaKvPoVTxgubaCid1LxBXkwJcVxjy1-8hmxJtVZ6si.DH1_pn7pLO1Rl5FC)
+
+
 ## Authors
 
 - [Jeremy Cohen, Imperial College London](https://github.com/jcohen02)
