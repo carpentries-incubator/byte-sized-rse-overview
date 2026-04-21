@@ -14,12 +14,24 @@ Each lesson takes ~1.5 hour long to deliver and is standalone relative to other 
 
 ## Lessons
 
-* [Code Development & Debugging with IDEs](https://github.com/carpentries-incubator/byte-sized-rse-vscode)
-* [Code Style, Quality & Linting](https://github.com/carpentries-incubator/byte-sized-rse-code-quality)
-* [Intermediate Git](https://github.com/carpentries-incubator/byte-sized-rse-git-intermediate)
-* [Code Review](https://github.com/carpentries-incubator/byte-sized-rse-code-review)
-* [Unit Testing Code](https://github.com/carpentries-incubator/byte-sized-rse-testing)
-* [Continuous Integration](https://github.com/carpentries-incubator/byte-sized-rse-ci)
+* **Code Development & Debugging with IDEs**
+  * [lesson repository](https://github.com/carpentries-incubator/byte-sized-rse-vscode)
+  * [lesson website](https://carpentries-incubator.github.io/byte-sized-rse-vscode)
+* **Code Style, Quality & Linting**
+  * [lesson repository](https://github.com/carpentries-incubator/byte-sized-rse-code-quality)
+  * [lesson website](https://carpentries-incubator.github.io/byte-sized-rse-code-quality)
+* **Intermediate Git**
+  * [lesson repository](https://github.com/carpentries-incubator/byte-sized-rse-git-intermediate)
+  * [lesson website](https://carpentries-incubator.github.io/byte-sized-rse-git-intermediate) 
+* **Code Review**
+  * [lesson repository](https://github.com/carpentries-incubator/byte-sized-rse-code-review)
+  * [lesson website](https://carpentries-incubator.github.io/byte-sized-rse-code-review)
+* **Unit Testing Code**
+  * [lesson repository](https://github.com/carpentries-incubator/byte-sized-rse-testing)
+  * [lesson website](https://carpentries-incubator.github.io/byte-sized-rse-testing)
+* **Continuous Integration**
+  * [lesson repository](https://github.com/carpentries-incubator/byte-sized-rse-ci)
+  * [lesson website](https://carpentries-incubator.github.io/byte-sized-rse-ci)
 
 ## Slides
 
