@@ -38,6 +38,9 @@ Each lesson takes ~1.5 hour long to deliver and is standalone relative to other 
 * **Software Documentation - MkDocs**
   * [lesson repository](https://github.com/carpentries-incubator/byte-sized-rse-software-documentation-mkdocs) 
   * [lesson website](https://carpentries-incubator.github.io/byte-sized-rse-software-documentation-mkdocs)
+* **Software Packaging - uv**
+  * [lesson repository](https://github.com/carpentries-incubator/byte-sized-rse-software-packaging-uv) 
+  * [lesson website](https://carpentries-incubator.github.io/byte-sized-rse-software-packaging-uv) 
 
 ## Slides
 
