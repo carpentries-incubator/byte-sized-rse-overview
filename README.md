@@ -32,6 +32,9 @@ Each lesson takes ~1.5 hour long to deliver and is standalone relative to other 
 * **Continuous Integration**
   * [lesson repository](https://github.com/carpentries-incubator/byte-sized-rse-ci)
   * [lesson website](https://carpentries-incubator.github.io/byte-sized-rse-ci)
+* **Containers - Podman**
+  * [lesson repository](https://github.com/carpentries-incubator/byte-sized-rse-containers-podman)
+  * [lesson website](https://carpentries-incubator.github.io/byte-sized-rse-containers-podman)
 
 ## Slides
 
