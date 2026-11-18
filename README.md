@@ -40,19 +40,10 @@ Each lesson takes ~1.5 hour long to deliver and is standalone relative to other 
   * [lesson website](https://carpentries-incubator.github.io/byte-sized-rse-software-documentation-mkdocs)
 * **Software Packaging - uv**
   * [lesson repository](https://github.com/carpentries-incubator/byte-sized-rse-software-packaging-uv) 
-  * [lesson website](https://carpentries-incubator.github.io/byte-sized-rse-software-packaging-uv) 
-
-## Slides
-
-[Slides](https://docs.google.com/presentation/d/1qNyDV3VDwv6Z3RHwfn5hL0pFxzK_DsWN3bPMjwV7Uoc/edit?usp=sharing) available under CC BY 4.0 licence.
-
-### Recordings
-
-## Authors
-
-- [Jeremy Cohen, Imperial College London](https://github.com/jcohen02)
-- [Steve Crouch, Software Sustainability Institute](https://github.com/steve-crouch)
-- [Aleksandra Nenadic, Software Sustainability Institute](https://github.com/anenadic)
+  * [lesson website](https://carpentries-incubator.github.io/byte-sized-rse-software-packaging-uv)
+* **AI-assisted coding - uv**
+  * [lesson repository](https://github.com/carpentries-incubator/byte-sized-rse-ai-assisted-coding) 
+  * [lesson website](https://carpentries-incubator.github.io/byte-sized-rse-ai-assisted-coding) 
 
 ## Licence
 
